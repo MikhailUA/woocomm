@@ -188,3 +188,5 @@ if(!class_exists('acf') && !is_admin()) {
 }
 
 add_action( 'related_woocommerce_template_loop_add_to_cart', 'woocommerce_template_loop_add_to_cart', 10 );
+
+

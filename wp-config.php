@@ -79,6 +79,8 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', true);
 
+define('WP_ALLOW_MULTISITE',true);
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
